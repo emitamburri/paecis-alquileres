@@ -15,9 +15,9 @@ Emilia Tamburri
  4. Análisis datos scraping 3 ambientes ARGENPROP.ipynb: En este código analizamos los datos provenientes del scrapeo para 3 ambientes.
 
 ### Bases de datos:
- a. Base IDECBA: precio promedio de alquileres para departamentos de 2 y 3 ambientes por comuna.
- b. Scraping de portales inmobiliarios (Argenprop)
- c. Bases auxiliares:
-   c.1. Serie IPC INDEC
-   c.2. Salarios RIPTE
-   c.3. Serie histórica dólar blue Ámbito Financiero
+ - Base IDECBA: precio promedio de alquileres para departamentos de 2 y 3 ambientes por comuna.
+ -  Scraping de portales inmobiliarios (Argenprop)
+ -   Bases auxiliares:
+ -    - Serie IPC INDEC
+      - Salarios RIPTE
+      - Serie histórica dólar blue Ámbito Financiero
